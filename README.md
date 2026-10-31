@@ -250,3 +250,15 @@ RoadSense aims to explore a smarter connected-mobility experience where vehicles
 **Project:** Hyundai RoadSense
 **Track:** AI-powered & Digital In-Vehicle Experience
 **Event:** Hyundai CoE Mobility Innovation Ideathon 2026
+
+
+## 13. Dashboard Screenshots
+
+### Dashboard Overview
+![RoadSense Dashboard](docs/screenshots/dashboard-overview.png)
+
+### Road Hazard Map
+![Road Hazard Map](docs/screenshots/road-hazard-map.png)
+
+### Vehicle B Simulation
+![Vehicle B Simulation](docs/screenshots/vehicle-b-simulation.png)
