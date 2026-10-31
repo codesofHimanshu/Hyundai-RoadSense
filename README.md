@@ -262,3 +262,11 @@ RoadSense aims to explore a smarter connected-mobility experience where vehicles
 
 ### Vehicle B Simulation
 ![Vehicle B Simulation](docs/screenshots/vehicle-b-simulation.png)
+
+## 14. Project Demonstration
+
+Watch the 2-minute demonstration of Hyundai RoadSense:
+
+[▶ Watch RoadSense Demo on YouTube](https://youtu.be/6PBbLNRBOxw)
+
+The video demonstrates the machine-learning classification, backend API and simulated connected-vehicle dashboard.
